@@ -3,11 +3,10 @@
 
  # Setup 🔧
 Type the following text into the CMD that you opened this project in the file location:
-```
+```js
 $ npm install discord.js
 ```
-And then
-```
+```js
 $ node app.js
 ```
-And finish 🎉
+and the installation is completed, it has now started to be used. 🎉
